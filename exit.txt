@@ -1,0 +1,9 @@
+C - 5 - 5
+M - 1 - 0
+M - 2 - 1
+# {T comme Trésor} - {Axe horizontal} - {Axe vertical} - {Nb. de trésors restants}
+T - 1 - 3 - 2# {A comme Aventurier} - {Nom de l’aventurier} - {Axe horizontal} - {Axe vertical} - {Orientation} - {Level Obtenu}
+A - Lara - 0 - 3 - S - 3
+# {G comme Gobelin} - {Axe horizontal} - {Axe vertical} - {Etat D -> dead L -> Live} {Nb combat effectué}
+# {O comme Orc} - {Axe horizontal} - {Axe vertical} - {Etat D -> dead L -> Live} {Nb combat effectué}
+O - 2 - 2 - L - 0
